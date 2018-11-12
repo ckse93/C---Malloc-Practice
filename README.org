@@ -10,7 +10,7 @@ run the executable by typing
 
 : ./a.out 
 or
-:./executable_name 
+: ./executable_name 
 
 you will need to assign how many byte you want to malloc. The terminal will ask you how many bytes.
 it will allocate size for a char array (string), and an int array, which will be filled with from 0 to input-1.  
