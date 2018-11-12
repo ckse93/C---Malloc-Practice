@@ -1,0 +1,17 @@
+#+title: Malloc Practice 
+#+options: toc:nil num:nil
+*** Instructions
+compile ~malloc_prac.c~ using 
+: gcc malloc_prac.c 
+or 
+: gcc -o executable_name malloc_prac.c
+
+run the executable by typing 
+
+: ./a.out 
+or
+:./executable_name 
+
+you will need to assign how many byte you want to malloc. The terminal will ask you how many bytes.
+it will allocate size for a char array (string), and an int array, which will be filled with from 0 to input-1.  
+
